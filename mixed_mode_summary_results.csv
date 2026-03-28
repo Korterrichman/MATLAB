@@ -1,0 +1,3 @@
+Phase,LightMode,FanMode,LightControlSource,FanControlSource,LightAccuracyPercent,FanAccuracyPercent
+Phase 1,Automatic,Manual,Presence,User Command,100,100
+Phase 2,Manual,Automatic,User Command,Temperature,100,100
