@@ -1,6 +1,5 @@
 %% =========================================================================
 %  Smart Home Mode-Toggle Simulation — Improved Version
-%  Addresses reviewer concerns:
 %    1. Sensor noise added to presence and temperature inputs
 %    2. Formal state-machine logic with defined transition rules
 %    3. Conflict / race-condition handling for simultaneous mode switches
